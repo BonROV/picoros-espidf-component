@@ -1,3 +1,4 @@
 [submodule "picoros"]
 	path = picoros
-	url = https://github.com/Pico-ROS/Pico-ROS-software.git
+	url = https://github.com/BonROV/Pico-ROS-software.git
+	branch = integration/zenoh-fixes
